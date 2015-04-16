@@ -1,14 +1,25 @@
 
+body{
+  overflow-x:hidden;
+}
+
+.main-top{
+  background-color: #CCEEEC
+}
+
+.top-nav{
+  background-color: white;
+  border-top-left-radius: 40px;
+  border-top-right-radius: 40px;
+}
+
 .top-sign-in{
   text-align: right;
 }
 
-.main-top h1{
-  font-size: 2.5em;
-}
 
-.main-top h3{
-  font-size: 4em;
+.main-top h1{
+  font-size: 2em;
 }
 
 .main-top h2{
@@ -32,4 +43,6 @@ color: #990000 ;
  background-color: white;
 }
 
-
+.main-bottom{
+  margin-top: 14px;
+}
