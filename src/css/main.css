@@ -1,3 +1,35 @@
-* {
-  border: solid 1px red;
+
+.top-sign-in{
+  text-align: right;
 }
+
+.main-top h1{
+  font-size: 2.5em;
+}
+
+.main-top h3{
+  font-size: 4em;
+}
+
+.main-top h2{
+  color: teal;
+  text-align: center;
+}
+
+/* Nav */
+a {
+font-size: 1.5em;
+color: #990000 ;
+}
+
+
+/* bottom */
+
+.bottom-background {
+ background-color: #00cfcf }
+
+.bottom-container {
+ background-color: white;
+}
+
+
