@@ -9,8 +9,8 @@ body{
 
 .top-nav{
   background-color: white;
-  border-top-left-radius: 40px;
-  border-top-right-radius: 40px;
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
 }
 
 .top-sign-in{
@@ -37,12 +37,32 @@ color: #990000 ;
 /* bottom */
 
 .bottom-background {
- background-color: #00cfcf }
+ background-color: #00cfcf; 
+}
 
 .bottom-container {
  background-color: white;
+ border-radius: 0 0 50px 50px;
 }
 
-.main-bottom{
+.main-bottom {
   margin-top: 14px;
+}
+
+.top-image {
+  border-radius: 50px 50px 0 0;
+  padding: 10px;
+}
+
+.bottom-image {
+  border-radius: 0 0 50px 50px;
+  padding: 10px;
+}
+
+.green-text {
+  color: #47D147;
+}
+
+.teal-text {
+  color: #00cfcf;
 }
